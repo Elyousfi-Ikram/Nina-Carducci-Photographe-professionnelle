@@ -1,0 +1,21 @@
+{
+  "name": "projet-4",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ikramelfi/Projet-4.git"
+  },
+  "author": "Ikram EL YOUSFI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ikramelfi/Projet-4/issues"
+  },
+  "homepage": "https://github.com/Ikramelfi/Projet-4#readme",
+  "description": "",
+  "dependencies": {
+    "uglify-js": "^3.19.3"
+  }
+}
