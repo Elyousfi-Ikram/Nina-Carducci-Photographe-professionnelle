@@ -113,6 +113,10 @@ body {
 	justify-content: center;
 }
 
+.gallery .nav-link {
+	cursor: pointer;
+}
+
 .gallery .nav-link.active,
 .gallery .show>.nav-link {
 	color: #fff;
@@ -121,7 +125,7 @@ body {
 }
 
 .nav-pills .nav-link {
-	color: #000
+	color: #000;
 }
 
 .item-column {
